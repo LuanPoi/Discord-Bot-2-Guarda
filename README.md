@@ -1,7 +1,7 @@
 # Discord-Bot-2-Guarda
-A Discord Bot made by me to improve my coding skills and earn experience with Python, Yaml and APIs.
+This is a Discord Bot made by me in order to improve my python coding skills, as well as gaining experience with Yaml and APIs.
 
-This Bot was developed to work together two other Bots:
+This bot was developed to work together with the following bots:
 ## Estado Soviético:
   [github.com/LuanPoi/Discord-Bot-1-Estado](https://github.com/LuanPoi/Discord-Bot-1-Estado)
 
